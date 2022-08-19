@@ -1,4 +1,4 @@
-module github.com/theochva/teleport-plugins/v7
+module github.com/theochva/teleport-plugins
 
 go 1.18
 
