@@ -23,7 +23,6 @@ require (
 	github.com/pborman/uuid v1.2.1
 	github.com/sirupsen/logrus v1.8.1-0.20210219125412-f104497f2b21
 	github.com/stretchr/testify v1.7.0
-	github.com/theochva/teleport-plugins v0.0.0-20220819144332-17a4ba1eded5
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
 	google.golang.org/grpc v1.31.0
 )
